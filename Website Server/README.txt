@@ -1,4 +1,5 @@
-Hello, this is a website server I made for a lab in Advanced Programming class. All the code is original and written by me. The server hosts a website that allows you to nagivate to various pages and view some photos. There is also a page that allows you to send a request to query a database which returns all valid inputs that matched your query.
+Hello, this is a website server I made for a lab in Advanced Programming class. All the code is original and written by me. The server hosts a website that allows you to nagivate to various pages and view some photos. There is also a page that allows you to send a request to query a database which returns all valid inputs that matched your query. 
+Below is the output of various GET requests while navigatingn the page. 
  
 The description should indicate whether your solution for the part is
 working or not.  You may also want to include anything else you would
